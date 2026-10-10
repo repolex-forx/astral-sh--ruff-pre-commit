@@ -1,0 +1,11 @@
+{
+  "org": "astral-sh",
+  "repo": "ruff-pre-commit",
+  "versions": [
+    {
+      "commit": "44b5042edab9382aba712eed4f9c7bab7a3d6a3e",
+      "tag": "v0.17.0",
+      "parsed_at": "2026-10-10T04:39:30.441567+00:00"
+    }
+  ]
+}
